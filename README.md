@@ -1,4 +1,4 @@
-# Ecommere project
+# GameEz project
 
 # Installation
 ```
